@@ -30,7 +30,7 @@ Each imported job comes with default settings, but adjustments are easy to make 
 
 You can generate a proposal whenever a estimate has been completed. The layout of the proposal can be adjusted by the user and the file will export as a pdf. 
 
-This is feature is a work in progress. Expected features will be included name and address of customer,contract terms, and signature field.
+This feature is a work in progress. Expected features will include the name and address of the customer, contract terms, and a signature field.
 
 <p float="left" align="middle">
   <img src="/assets/printmenu.gif" width="250" />
